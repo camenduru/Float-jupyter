@@ -19,6 +19,9 @@ https://arxiv.org/abs/2412.01064
 ### 🌐 Page
 https://deepbrainai-research.github.io/float/
 
+### 📋 Tutorial
+https://note.com/bakushu/n/n1f884f4f40fd
+
 ### 🖼 Output
 
 Input Image:
