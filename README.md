@@ -9,7 +9,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Float-jupyter/blob/main/Float_jupyter.ipynb) | Float_jupyter
 
 ### 🧬 Code
-https://github.com/deepbrainai-research/float
+https://github.com/deepbrainai-research/float <br />
+https://github.com/comfyanonymous/ComfyUI <br />
+https://github.com/yuvraj108c/ComfyUI-FLOAT
 
 ### 📄 Paper
 https://arxiv.org/abs/2412.01064
